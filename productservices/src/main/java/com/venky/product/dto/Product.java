@@ -7,7 +7,7 @@ public class Product {
 	private String description;
 	private int price; 
 
-	public int getId() {
+	public int getId() { 
 		return id;
 	}
 
