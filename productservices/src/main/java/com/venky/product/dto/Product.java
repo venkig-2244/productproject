@@ -1,4 +1,4 @@
-package com.venky.product.dto;
+package com.venky.product.dto; 
 
 // Adding comment to check git integration   
 public class Product {
