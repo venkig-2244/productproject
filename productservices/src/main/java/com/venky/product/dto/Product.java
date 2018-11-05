@@ -1,30 +1,31 @@
-package com.venky.product.dto;
-
+package com.venky.product.dto; 
+ 
+// Adding comment to check git integration   
 public class Product {
 	private int id;
 	private String name;
 	private String description;
-	private int price;
+	private int price; 
 
-	public int getId() {
+	public int getId() { 
 		return id;
 	}
-
+ 
 	public void setId(int id) {
 		this.id = id;
-	}
-
+	} 
+ 
 	public String getName() {
 		return name;
-	}
+	} 
 
 	public void setName(String name) {
 		this.name = name;
-	}
+	}  
 
 	public String getDescription() {
 		return description;
-	}
+	} 
 
 	public void setDescription(String description) {
 		this.description = description;
@@ -36,6 +37,7 @@ public class Product {
 
 	public void setPrice(int price) {
 		this.price = price;
-	}
+	} 
+
 	
-}
+}  
